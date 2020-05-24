@@ -18,5 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 App preview:
 
 
-![](sample1.png)
+![](sample1.png =x100)
 
