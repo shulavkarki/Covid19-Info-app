@@ -17,6 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 App preview:
 
-❮img src="sample1.png" width="100" ❯
-![](sample2.png =x100)
+❮img src="sample1.png" width="100"❯
 
