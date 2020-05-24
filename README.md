@@ -17,9 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 App preview:
 
-![Sample 1]("sample1.png")
-
-https://ibb.co/ydQxbWm
-https://ibb.co/yBmxWBZ
-https://ibb.co/kHr9NGW
-https://ibb.co/VNJSD5K
+![alt text](https://ibb.co/ydQxbWm)
