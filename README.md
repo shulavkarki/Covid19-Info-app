@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 App preview:
 
-![alt text](sample1.png)
+![alt text](https://github.com/[shulavkarki]/[Covid19--Info-app]/image.jpg?raw=true)
