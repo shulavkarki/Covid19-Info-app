@@ -19,6 +19,6 @@ App preview:
 
 ![ ](smaple1.png)
 <p align="center">
-  <img src="sample2.png" width="350" title="hover text">
-  <img src="sample3" width="350" alt="accessibility text">
+  <img src="sample2.png" width="250" title="hover text">
+  <img src="sample3.png" width="350" alt="accessibility text">
 </p>
