@@ -16,8 +16,9 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 App preview:
-img src="sample2.png" height="100" ❯
+
 ![ ](smaple1.png)
-![ ](sample2.png )
-![ ](sample3.png)
-![ ](sample4.png)
+<p align="center">
+  <img src="sample2.png" width="350" title="hover text">
+  <img src="sample3" width="350" alt="accessibility text">
+</p>
