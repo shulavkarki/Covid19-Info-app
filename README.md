@@ -17,7 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 App preview:
 
-![ ](smaple1.png)
 <p align="center">
   <img src="sample1.png" width="350" title="Sample 1">
   <img src="sample2.png" width="250 title="Sample 2">
